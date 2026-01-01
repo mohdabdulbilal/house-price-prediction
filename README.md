@@ -6,7 +6,7 @@ A newly developed machine learning web application that predicts house prices ba
 [Open Demo App](https://house-price-prediction-j2pkfmjrzzdnhtqkuwars7.streamlit.app/)
 
 ## 🎥 Demo Video
-![Demo video](https://github.com/mohdabdulbilal/house-price-prediction/blob/main/Demo%20Video.mp4)
+[Demo video](https://github.com/mohdabdulbilal/house-price-prediction/blob/main/Demo%20Video.mp4)
 
 ## ✨ Features
 - Interactive and user-friendly Streamlit web interface  
