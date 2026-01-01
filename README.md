@@ -6,7 +6,7 @@ A newly developed machine learning web application that predicts house prices ba
 [Open Demo App](https://house-price-prediction-j2pkfmjrzzdnhtqkuwars7.streamlit.app/)
 
 ## 🎥 Demo Video
-https://github.com/mohdabdulbilal/house-price-prediction/blob/main/Demo%20Video.mp4
+[Watch Demo video](https://github.com/mohdabdulbilal/house-price-prediction/blob/main/Demo%20Video.mp4)
 
 ## ✨ Features
 - Interactive and user-friendly Streamlit web interface  
@@ -18,13 +18,16 @@ https://github.com/mohdabdulbilal/house-price-prediction/blob/main/Demo%20Video.
 - Built using Scikit-learn
 
 ## 🛠️ Tech Stack
-- Python  
-- Streamlit  
-- Pandas  
-- NumPy  
-- Scikit-learn  
+
+- **Programming Language:** Python  
+- **Web Framework:** Streamlit  
+- **ML Library:** Scikit-learn  
+- **Data Handling:** Pandas, NumPy  
+- **Deployment:** Streamlit Community Cloud  
 
 ## ▶️ Run Locally
+
+1. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+
